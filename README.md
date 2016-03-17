@@ -1,2 +1,2 @@
 # SpigotPocketEdition
-Premium software for Minecraft Pocket Edition. 
+SoftWare per creazione di server basato su Minecraft Pocket Edition
